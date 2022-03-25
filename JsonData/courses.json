@@ -2,21 +2,25 @@
   {
     "id": 1,
     "name": "Computer Science",
-    "summary": "Become the next professional in the field of computer science. Whether it's software development, internet and web management, cloud technologies, or network computing you’re interested in, we have a pathway for you."
+    "summary": "Become the next professional in the field of computer science. Whether it's software development, internet and web management, cloud technologies, or network computing you’re interested in, we have a pathway for you.",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
   },
   {
     "id": 2,
     "name": "General Engineering",
-    "summary": "Our General Engineering degree with a foundation year allows you to build a solid foundation of the fundamentals before moving on to your specialist area of study in engineering."
+    "summary": "Our General Engineering degree with a foundation year allows you to build a solid foundation of the fundamentals before moving on to your specialist area of study in engineering.",
+    "image": "https://images.unsplash.com/photo-1581092160562-40aa08e78837?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
   },
   {
     "id": 3,
     "name": "eSports",
-    "summary": "Focusing on the business, broadcasting and events of esports, this is a unique course is taught from an award winning, Gold Standard games university in the UK."
+    "summary": "Focusing on the business, broadcasting and events of esports, this is a unique course is taught from an award winning, Gold Standard games university in the UK.",
+    "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
   },
   {
     "id": 4,
     "name": "Finance and Business Enterprise",
-    "summary": "Discover how accounting and finance underpins modern enterprise in our BA (Hons) Finance and Business Enterprise."
+    "summary": "Discover how accounting and finance underpins modern enterprise in our BA (Hons) Finance and Business Enterprise.",
+    "image": "https://images.unsplash.com/photo-1554224154-26032ffc0d07?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1126&q=80"
   }
 ]
