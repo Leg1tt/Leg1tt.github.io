@@ -1,26 +1,28 @@
-[
-  {
-    "id": 1,
-    "name": "Staffs Poker Society",
-    "summary": "This society was formed to allow people the chance to enjoy poker whether they are brand new or regulars to the game, we did this by creating a friendly environment where all are welcome to learn more while having fun. We run the weekly game in LRV on Thursday nights starting at 7:00 pm with late registration at around 7:30-8 pm to allow people to get there later.",
-    "image": "https://images.unsplash.com/photo-1596451190630-186aff535bf2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1173&q=80"
-  },
-  {
-    "id": 2,
-    "name": "Rock, Alternative, Metal Society",
-    "summary": "Welcome to RAMS - Staffordshire University’s premiere group for all things Rock, Alternative & Metal! With us you will find a home amongst a family of likeminded charlatans and saints, all with the same driving love for music, drinking and merrymaking! Only as a member of RAMS will you experience the alternative nightlife that Stoke has to offer in its full and wonderful glory, alongside people that will quickly become your closest friends and drinking buddies!",
-    "image": "https://images.unsplash.com/photo-1609800029525-b91fdea39774?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80"
-  },
-  {
-    "id": 3,
-    "name": "Game Development Society",
-    "summary": "Welcome to Staffordshire Universities Game Development Society. Voted 'Student Group of the Year' you’ll find a place with lots of passionate people geared towards the game industry!\\\\n-Meet once a week from 6pm - 9pm to make games with likeminded people.",
-    "image": "https://images.unsplash.com/photo-1556438064-2d7646166914?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
-  },
-  {
-    "id": 4,
-    "name": "Staffordshire University Racing (SUR)",
-    "summary": "Staffordshire Uni Racing are beginning the continuation of our project into the 6th year at the IMechE Formula Student Event. After an exhilirating win of 1st place in the First Year Vehicle Class at the Competition and an astonishing 2nd Overall in 2021 we are looking for more students to engage in this project. We hope you can help us to another year of success!",
-    "image": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80"
-  }
-]
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Staffs Poker Society",
+      "summary": "This society was formed to allow people the chance to enjoy poker whether they are brand new or regulars to the game, we did this by creating a friendly environment where all are welcome to learn more while having fun. We run the weekly game in LRV on Thursday nights starting at 7:00 pm with late registration at around 7:30-8 pm to allow people to get there later.",
+      "image": "https://images.unsplash.com/photo-1596451190630-186aff535bf2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1173&q=80"
+    },
+    {
+      "id": 2,
+      "name": "Rock, Alternative, Metal Society",
+      "summary": "Welcome to RAMS - Staffordshire University’s premiere group for all things Rock, Alternative & Metal! With us you will find a home amongst a family of likeminded charlatans and saints, all with the same driving love for music, drinking and merrymaking! Only as a member of RAMS will you experience the alternative nightlife that Stoke has to offer in its full and wonderful glory, alongside people that will quickly become your closest friends and drinking buddies!",
+      "image": "https://images.unsplash.com/photo-1609800029525-b91fdea39774?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80"
+    },
+    {
+      "id": 3,
+      "name": "Game Development Society",
+      "summary": "Welcome to Staffordshire Universities Game Development Society. Voted 'Student Group of the Year' you’ll find a place with lots of passionate people geared towards the game industry!\\\\n-Meet once a week from 6pm - 9pm to make games with likeminded people.",
+      "image": "https://images.unsplash.com/photo-1556438064-2d7646166914?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": 4,
+      "name": "Staffordshire University Racing (SUR)",
+      "summary": "Staffordshire Uni Racing are beginning the continuation of our project into the 6th year at the IMechE Formula Student Event. After an exhilirating win of 1st place in the First Year Vehicle Class at the Competition and an astonishing 2nd Overall in 2021 we are looking for more students to engage in this project. We hope you can help us to another year of success!",
+      "image": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80"
+    }
+  ]
+}
