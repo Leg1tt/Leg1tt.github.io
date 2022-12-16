@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "fact": "A dog’s nose print is unique, much like a person’s fingerprint?"
+    },
+    {
+        "id": 2,
+        "fact": "Seventy percent of people sign their dog’s name on their holiday cards."
+    },
+    {
+        "id": 3,
+        "fact": "Dogs are not colorblind. They can see blue and yellow."
+    },
+    {
+        "id": 4,
+        "fact": "There are over 75 million pet dogs in the U.S.—more than in any other country."
+    },
+    {
+        "id": 5,
+        "fact": "Human blood pressure goes down when petting a dog. And so does the dog’s."
+    },
+    {
+        "id": 6,
+        "fact": "Dalmatians are born completely white, and develop their spots as they get older."
+    },
+    {
+        "id": 7,
+        "fact": "Dogs have about 1,700 taste buds. We humans have between 2,000–10,000."
+    },
+    {
+        "id": 8,
+        "fact": "When dogs kick backward after they go to the bathroom it’s not to cover it up, but to mark their territory, using the scent glands in their feet."
+    },
+    {
+        "id": 9,
+        "fact": "All dogs dream, but puppies and senior dogs dream more frequently than adult dogs."
+    },
+    {
+        "id": 10,
+        "fact": "Dogs’ noses can sense heat/thermal radiation, which explains why blind or deaf dogs can still hunt."
+    }
+]
